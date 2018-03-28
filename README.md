@@ -4,3 +4,4 @@
     getText() retrieves data from local text file  
     getJson() retrieves JSON data from local JSON file  
     getExternal() retrieves JSON data from an external API
+* Commit 4 converts to arrow functions
